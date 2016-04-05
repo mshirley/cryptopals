@@ -11,7 +11,8 @@
 """
 from singleByteXOR import execXOR, detectAlpha, createScores, options
 
-fileName = 's1c4.txt'
+#fileName = 's1c4.txt'
+fileName = 'challenge.txt'
 
 # execute singleByteXOR on rows in file
 tmpWinners = []
